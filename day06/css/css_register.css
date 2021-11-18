@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 50px auto;
+    text-align: center;
+    width: 800px;
+}
+
+label {
+    border: 1px solid #8fb7e4;
+    width: 120px;
+    display: inline-block;
+    text-align: center;
+    font-size: 1.1rem;
+    font-family: 'Times New Roman';
+    background: #87cefa;
+    margin-right: 20px;
+    padding: 9px;
+}
+
+.labelNhap {
+    width: 300px;
+    background: #ffffff; 
+    color: #ff0000;
+    border: 1px solid Orange;
+    text-align: left;
+    font-size: 1.1rem;
+}
+
+.rong1 {
+    width: 6px;
+    background: #ffffff; 
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+
+input {
+    border: 1px solid #8fb7e4;
+    font-size: 1.3rem;
+    font-weight: 100;
+    font-family: 'Times New Roman';
+    padding: 6px;
+    width: 200px;
+}
+
+.input1 {
+    width: 120px;
+    height: 39px;
+    font-size: 1.3rem;
+    background: #87cefa;
+    border: 2px solid #8fb7e4;
+    /* text-decoration: underline #000000; */
+    margin: 20px 0px 20px 0px;
+
+}
+
+.input2 {
+    border: 1px solid #8fb7e4;
+    font-size: 1.3rem;
+    font-weight: 100;
+    font-family: 'Times New Roman';
+    padding: 6px;
+    width: 152px;
+}
+form {
+    margin: 25px auto;
+    padding: 10px;
+    border: 2px solid #8fb7e4;
+    width: 459px;
+}
+.formAll {
+    margin: 25px auto;
+    padding: 10px;
+    border: 2px solid #8fb7e4;
+    width: 459px;
+}
+.css  {
+    margin: 20px 0;
+    
+}
+
+.button1 {
+    width: 167px;
+    padding: 8px;
+    font-size: 1rem;
+    font-family: 'Times New Roman';
+    font-weight: 1;
+    background: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #8fb7e4;
+   
+}
+
+.labelOut {
+    border: 1px solid #ffffff;
+    width: 200px; 
+    text-align: left;
+    background: #ffffff;
+   
+}
