@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    margin: 50px auto;
+    text-align: center;
+    width: 800px;
+}
+label {
+    border: 1px solid #8fb7e4;
+    width: 120px;
+    display: inline-block;
+    text-align: center;
+    font-size: 1.1rem;
+    font-family: 'Times New Roman';
+    background: #87cefa;
+    margin-right: 20px;
+    padding: 9px;
+}
+
+.labelOut {
+    border: 1px solid #ffffff;
+    width: 200px;
+    display: inline-block;
+    text-align: left;
+    font-size: 1.1rem;
+    font-family: 'Times New Roman';
+    background: #ffffff;
+    margin-right: 20px;
+    padding: 9px;
+}
+
+
+form {
+    margin: 25px auto;
+    padding: 10px;
+    border: 2px solid #8fb7e4;
+    width: 459px;
+}
+.css  {
+    margin: 20px 0;
+}
